@@ -1,0 +1,162 @@
+.window {
+	opacity: 0.8;
+	filter: alpha(opacity = 200);
+	border: 2px solid #346789;
+	background-color: #EEEEEF;
+	color: black;
+	padding: 1em;
+	z-index: 20;
+	text-align: center;
+	width: 10em;
+	height: 4em;
+	position: absolute;
+	box-shadow: 2px 2px 19px #E0E0E0;
+}
+
+.user {
+	margin-left: 10px;
+}
+
+.user a {
+	color: #00006F;
+	font-weight: normal;
+	padding: 0px;
+	margin: 0px;
+	padding-left: 3px;
+}
+
+.user a:hover {
+	color: #1b911b;
+	background-color: transparent;
+}
+
+.wait-user {
+	background: url("../../img/custom/wait.ico") no-repeat scroll left
+		center transparent;
+}
+
+.pass-user {
+	background: url("../../img/custom/pass.ico") no-repeat scroll left
+		center transparent;
+}
+
+.stop-user {
+	background: url("../../img/custom/stop.ico") no-repeat scroll left
+		center transparent;
+}
+
+.panel-font {
+	padding-left: 20px;
+}
+
+.icon {
+	display: inline-block;
+	padding-left: 20px;
+	line-height: 24px;
+	background: url(../../img/custom/help.gif) no-repeat left 40px;
+	font-family: tahoma;
+	vertical-align: middle;
+	height: 24px;
+	z-index: 999;
+}
+
+.thumbnail-window {
+	opacity: 0.8;
+	filter: alpha(opacity = 200);
+	border: 2px solid #346789;
+	background-color: #EEEEEF;
+	color: black;
+	padding: 1em;
+	z-index: 20;
+	text-align: center;
+	width: 2em;
+	height: 2em;
+	box-shadow: 2px 2px 19px #E0E0E0;
+}
+
+.thumbnail-title {
+	margin-left: 10px;
+}
+
+.thumbnail-title li {
+	list-style: none;
+}
+
+.thumbnail-title span {
+	margin-left: 4px;
+	vertical-align: bottom;
+}
+
+.window1 {
+	top: 0em;
+	left: 0em;
+}
+
+.window2 {
+	top: 0em;
+	left: 15em;
+}
+
+.window3 {
+	top: 0em;
+	left: 30em;
+}
+
+.window4 {
+	top: 0em;
+	left: 45em;
+}
+
+.window5 {
+	top: 15em;
+	left: 45em;
+}
+
+.window6 {
+	top: 15em;
+	left: 30em;
+}
+
+.window7 {
+	top: 15em;
+	left: 15em;
+}
+
+.window8 {
+	top: 15em;
+	left: 0em;
+}
+
+.window9 {
+	top: 30em;
+	left: 0em;
+}
+
+.window10 {
+	top: 30em;
+	left: 15em;
+}
+
+.window11 {
+	top: 30em;
+	left: 30em;
+}
+
+.window12 {
+	top: 30em;
+	left: 45em;
+}
+
+.pass-window {
+	border: 2px solid #006400;
+	background-color: #C9FECC;
+}
+
+.stop-window {
+	border: 2px solid #A60000;
+	background-color: #FFC8C8;
+}
+
+.wait-window {
+	
+}
